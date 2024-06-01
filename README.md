@@ -1,12 +1,13 @@
-## Hi there 👋 My name is David Mandi
+# Hi there 👋 My name is David Mandi
 
-# Data Analyst
+## Data Analyst
+
 - 🌍 I am based in Nairobi.
 - 👀 I’m always constantly looking for growth opportunities, so let's connect.
 - 📫 You can reach me at serio.mandi@gmail.com
 - 🌳 Current Project: ...
 
-#🛠️ Skills
+## 🛠️ Skills
 - Python
 - SQL
 
