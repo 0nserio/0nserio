@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there 👋 My name is David Mandi
+
+# Data Analyst
+- 🌍 I am based in Nairobi.
+- 👀 I’m always constantly looking for growth opportunities, so let's connect.
+- 📫 You can reach me at serio.mandi@gmail.com
+- 🌳 Current Project: ...
+
+#🛠️ Skills
+- Python
+- SQL
 
 <!--
 **0nserio/0nserio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
