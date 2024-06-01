@@ -5,11 +5,11 @@
 - 🌍 I am based in Nairobi.
 - 👀 I’m always constantly looking for growth opportunities, so let's connect.
 - 📫 You can reach me at serio.mandi@gmail.com
-- 🌳 Current Project: ...
+- 🌳 Current Project: 
 
 ## 🛠️ Skills
-- Moderate: Python
-- Database: MySQL
+- **Moderate:** Python
+- **Database:** MySQL
 
 <!--
 **0nserio/0nserio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
