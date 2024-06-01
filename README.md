@@ -8,8 +8,8 @@
 - 🌳 Current Project: ...
 
 ## 🛠️ Skills
-- Python
-- SQL
+- Moderate: Python
+- Database: MySQL
 
 <!--
 **0nserio/0nserio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
