@@ -6,7 +6,7 @@
 - 👀 I’m always constantly looking for growth opportunities, so let's connect.
 - 🤔 I’m looking for help with prescriptive analytics.
 - 📫 You can reach me at serio.mandi@gmail.com
-- 🌳 Current Project: 
+- 🌳
 
 ## 🛠️ Skills
 - **Moderate:** Python
