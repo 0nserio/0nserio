@@ -19,7 +19,7 @@ My approach combines:
 * A consultative mindset (understanding business needs)
 * Clear communication (translating insights into meaningful actions)
 
-Whether you're building a dashboard, cleaning data, or automating reports, I bring technical precision and a focus on the user. I make sure every solution is easy to use and helps people make smarter decisions.<br>
+Whether you're building a dashboard, cleaning data, or automating reports, I bring technical precision and a focus on the user. I make sure every solution is easy to use and helps people make smarter decisions.
 
 ## My Contribution
 I provide end-to-end data solutions that empower both companies and individuals to make smarter, data-driven decisions. Whether you're looking to optimize workflows, design intuitive dashboards, or automate reporting, I specialize in:
@@ -57,7 +57,7 @@ I'm open to:
 * BI consulting engagements
 * Freelance dashboard/reporting work
 
-### Get in Touch
+## Get in Touch
 * 📧 Email me: serio.mandi@gmail.com
 * 🔗 LinkedIn: https://www.linkedin.com/in/davidmandi/
 * 🌐 Portfolio: https://0nserio.github.io/DavidMandi.github.io/
