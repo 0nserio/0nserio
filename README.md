@@ -1,15 +1,70 @@
-# Hi, I'm David 🔎 
+# 👋 Hi, I’m David Onserio Mandi
 
 
-🔭  **Data Analyst & Economist**  <br>🌍 I am based in Nairobi, Kenya.<br>🎯 I help turn data into actionable insights<br>⚡ Fun fact i am crazy about bikes. <br>🚀 Current Focus:<br>- Building data projects  <br>- Exploring automotive data & consulting <br><br>> _Let data tell the story._  
+## Data Analyst | Freelance Data Professional
+
+_Let data tell the story._ 
+
+ Welcome to my GitHub! I’m passionate about building data solutions that are technically robust and human-centered. 
 
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=0nserio&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=0nserio&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=0nserio&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
+## About Me
+
+I help businesses and individuals turn raw data into smart decisions, whether you need a detail-oriented data analyst or a dependable freelance partner for your next data project.
+
+**My Mission:** To empower impact-driven organizations and individuals by transforming complex data into actionable insights.<br>**My Vision:** To help clients use data to drive growth, efficiency, and clarity.<br>
+
+My approach combines:
+* Strong technical expertise (Power BI, SQL, Excel, Python) 
+* A consultative mindset (understanding business needs)
+* Clear communication (translating insights into meaningful actions)
+
+Whether you're building a dashboard, cleaning data, or automating reports, I bring technical precision and a focus on the user. I make sure every solution is easy to use and helps people make smarter decisions.<br>
+
+## My Contribution
+I provide end-to-end data solutions that empower both companies and individuals to make smarter, data-driven decisions. Whether you're looking to optimize workflows, design intuitive dashboards, or automate reporting, I specialize in:
+* Creating interactive, dynamic dashboards, SQL data models, and data pipelines to transform data into valuable insights
+* Offering BI consulting that aligns technical solutions with strategic goals and KPIs
+* Delivering freelance projects with fast, reliable turnarounds for NGOs, startups, and growth-stage companies, as well as individual clients
+
+
+## My Toolkit
+##### Data & BI Tools
+Power BI, Tableau, Excel (VBA, Power Query, Power Pivot), SQL (PostgreSQL, MySQL, SQL Server)
+
+##### Automation & Reporting
+Power Query, Excel VBA, Data Validation
+
+##### Programming & Analysis
+Python (pandas, NumPy), SPSS, Statistical Analysis
+
+##### Cloud & Infrastructure<br>
+Google Sheets
+
+##### Soft Skills & Collaboration
+Agile Workflow, Communication, Leadership, Data Storytelling, Empathy, Remote Teaming, Adaptability
+
+## Projects & Case Studies
+Check my repositories for detailed walk-throughs and code samples.
+
+## Feedback from Teams & Clients
+- “David has a sharp eye for spotting patterns and making data useful.” 
+- “David’s the kind of person who sees things through from start to finish.”
+
+## Let’s Collaborate
+I'm open to:
+* Full-time/contract data roles
+* BI consulting engagements
+* Freelance dashboard/reporting work
+
+### Get in Touch
+* 📧 Email me: serio.mandi@gmail.com
+* 🔗 LinkedIn: https://www.linkedin.com/in/davidmandi/
+* 🌐 Portfolio: https://0nserio.github.io/DavidMandi.github.io/
+
+
+Let’s transform your data into decisions.
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
