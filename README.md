@@ -12,7 +12,7 @@ _Let data tell the story._
 
 I help businesses and individuals turn raw data into smart decisions, whether you need a detail-oriented data analyst or a dependable freelance partner for your next data project.
 
-**My Mission:** To empower impact-driven organizations and individuals by transforming complex data into actionable insights.<br>**My Vision:** To help clients use data to drive growth, efficiency, and clarity.<br>
+**My Mission:** to turn complex data into insights that help purpose-driven people make a real difference.<br>**My Vision:** to transform data into a tool for driving business growth, streamlining operations, and making confident decisions.<br>
 
 My approach combines:
 * Strong technical expertise (Power BI, SQL, Excel, Python) 
