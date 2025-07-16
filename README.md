@@ -19,18 +19,18 @@ My approach combines:
 * A consultative mindset (understanding business needs)
 * Clear communication (translating insights into meaningful actions)
 
-Whether you're building a dashboard, cleaning data, or automating reports, I bring technical precision and a focus on the user. I make sure every solution is easy to use and helps people make smarter decisions.
+Whether you're building a dashboard, cleaning data, or automating reports, I bring technical precision and a focus on the user. I ensure that every solution is easy to use and helps people make smarter decisions.
 
 ## My Contribution
 I provide end-to-end data solutions that empower both companies and individuals to make smarter, data-driven decisions. Whether you're looking to optimize workflows, design intuitive dashboards, or automate reporting, I specialize in:
 * Creating interactive, dynamic dashboards, SQL data models, and data pipelines to transform data into valuable insights
-* Offering BI consulting that aligns technical solutions with strategic goals and KPIs
+* Offering professional consulting that aligns technical solutions with strategic goals and KPIs
 * Delivering freelance projects with fast, reliable turnarounds for NGOs, startups, and growth-stage companies, as well as individual clients
 
 
 ## My Toolkit
 ##### Data & BI Tools
-Power BI, Tableau, Excel (VBA, Power Query, Power Pivot), SQL (PostgreSQL, MySQL, SQL Server)
+Power BI, Excel (VBA, Power Query, Power Pivot), SQL (PostgreSQL, MySQL, SQL Server)
 
 ##### Automation & Reporting
 Power Query, Excel VBA, Data Validation
@@ -54,7 +54,7 @@ Check my repositories for detailed walk-throughs and code samples.
 ## Let’s Collaborate
 I'm open to:
 * Full-time/contract data roles
-* BI consulting engagements
+* Business consulting engagements
 * Freelance dashboard/reporting work
 
 ## Get in Touch
