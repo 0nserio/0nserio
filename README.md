@@ -42,7 +42,7 @@ Python (pandas, NumPy), SPSS, Statistical Analysis
 Google Sheets
 
 ##### Soft Skills & Collaboration
-Agile Workflow, Communication, Leadership, Data Storytelling, Empathy, Remote Teaming, Adaptability
+Iterative workflow, Communication, Leadership, Data Storytelling, Empathy, Remote Teaming, Adaptability
 
 ## Projects & Case Studies
 Check my repositories for detailed walk-throughs and code samples.
