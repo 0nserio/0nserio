@@ -60,7 +60,7 @@ I'm open to:
 ## Get in Touch
 * 📧 Email me: serio.mandi@gmail.com
 * 🔗 LinkedIn: https://www.linkedin.com/in/davidmandi/
-* 🌐 Portfolio: https://0nserio.github.io/DavidMandi.github.io/
+* 🌐 Portfolio: https://0nserio.github.io/
 
 
 Let’s transform your data into decisions.
