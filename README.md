@@ -13,17 +13,8 @@ _Let data tell the story._
 I help businesses and individuals turn raw data into smart decisions, whether you need a detail-oriented data analyst or a dependable freelance partner for your next data project.
 
 👨🏿‍🎓 I'm currently a Data Analyst<br>
-💻 I graduated University of Nairobi with a Bachelors  of Economics and Statistics<br>
-👸🏿 Hobbies: Reading science fiction and fantasy books<br>
-
-**My Mission:** to turn complex data into insights that help purpose-driven people make a real difference.<br>**My Vision:** to transform data into a tool for driving business growth, streamlining operations, and making confident decisions.<br>
-
-My approach combines:
-* Strong technical expertise (Power BI, SQL, Excel, Python) 
-* A consultative mindset (understanding business needs)
-* Clear communication (translating insights into meaningful actions)
-
-Whether you're building a dashboard, cleaning data, or automating reports, I bring technical precision and a focus on the user. I ensure that every solution is easy to use and helps people make smarter decisions.
+💻 I graduated from the University of Nairobi with a Bachelor's  of Economics and Statistics<br>
+👸🏿 Hobbies: Reading science fiction books and cycling<br>
 
 ## My Toolkit
 ##### Data & BI Tools
