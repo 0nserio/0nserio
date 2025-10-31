@@ -12,6 +12,10 @@ _Let data tell the story._
 
 I help businesses and individuals turn raw data into smart decisions, whether you need a detail-oriented data analyst or a dependable freelance partner for your next data project.
 
+👨🏿‍🎓 I'm currently a Data Analyst<br>
+💻 I graduated University of Nairobi with a Bachelors  of Economics and Statistics<br>
+👸🏿 Hobbies: Reading science fiction and fantasy books<br>
+
 **My Mission:** to turn complex data into insights that help purpose-driven people make a real difference.<br>**My Vision:** to transform data into a tool for driving business growth, streamlining operations, and making confident decisions.<br>
 
 My approach combines:
@@ -20,13 +24,6 @@ My approach combines:
 * Clear communication (translating insights into meaningful actions)
 
 Whether you're building a dashboard, cleaning data, or automating reports, I bring technical precision and a focus on the user. I ensure that every solution is easy to use and helps people make smarter decisions.
-
-## My Contribution
-I provide end-to-end data solutions that empower both companies and individuals to make smarter, data-driven decisions. Whether you're looking to optimize workflows, design intuitive dashboards, or automate reporting, I specialize in:
-* Creating interactive, dynamic dashboards, SQL data models, and data pipelines to transform data into valuable insights
-* Offering professional consulting that aligns technical solutions with strategic goals and KPIs
-* Delivering freelance projects with fast, reliable turnarounds for NGOs, startups, and growth-stage companies, as well as individual clients
-
 
 ## My Toolkit
 ##### Data & BI Tools
@@ -47,9 +44,6 @@ Iterative workflow, Communication, Leadership, Data Storytelling, Empathy, Remot
 ## Projects & Case Studies
 Check my repositories for detailed walk-throughs and code samples.
 
-## Feedback from Teams & Clients
-- “David has a sharp eye for spotting patterns and making data useful.” 
-- “David’s the kind of person who sees things through from start to finish.”
 
 ## Let’s Collaborate
 I'm open to:
