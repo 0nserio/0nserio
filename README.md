@@ -1,7 +1,7 @@
-# 👋 Hi, I’m David Onserio Mandi
+# 👋 Hi, I’m David Mandi
 
 
-## Data Analyst | Freelance Data Professional
+## Data Analyst | Freelance
 
 _Let data tell the story._ 
 
@@ -9,13 +9,20 @@ Welcome to my GitHub! I’m passionate about building data solutions that are te
 
 ## About Me
 
-I help businesses and individuals turn raw data into smart decisions, whether you need a detail-oriented data analyst or a dependable freelance partner for your next data project.
+I enjoy turning raw data into clear insights that help people make better decisions. My work sits at the intersection of data analytics, ERP systems, and business intelligence.
 
-👨🏿‍🎓 I'm currently a Data Analyst<br>
-💻 I graduated from the University of Nairobi with a Bachelor's  of Economics and Statistics<br>
-👸🏿 Hobbies: outdoor and cycling<br>
+- 👨🏿‍🎓 I'm currently a ERP Analyst<br>
+- 💻 Data Analyst focused on practical business insights
+- 🎓 Graduate of Economics and Statistics - University of Nairobi<br>
+- 👸🏿 Hobbies: outdoor activities and cycling<br>
 
-### ✍️ Random Dev Quote
+## 🚧 What I'm Currently Working On
+
+- Implementing ERPNext modules to Kenya business requirements<br>
+- Building data reports and dashboards for operational insights<br>
+- Learning how to extend ERPNext using Frappe and Python<br>
+
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
