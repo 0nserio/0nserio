@@ -1,13 +1,9 @@
 # 👋 Hi, I’m David Mandi
 
 
-## Data Analyst | Freelance
+## Data Analyst | ERP Analyst | Freelance Data Professional
 
 _Let data tell the story._ 
-
-Welcome to my GitHub! I’m passionate about building data solutions that are technically robust and human-centered. 
-
-## About Me
 
 I enjoy turning raw data into clear insights that help people make better decisions. My work sits at the intersection of data analytics, ERP systems, and business intelligence.
 
