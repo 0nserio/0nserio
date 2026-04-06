@@ -1,20 +1,20 @@
 # 👋 Hi, I’m David Mandi
 
 
-## Data Analyst | ERP Analyst | Freelance Data Professional
+## Data Analyst | Business Analyst | Freelance Data Professional
 
 _Let data tell the story._ 
 
 I enjoy turning raw data into clear insights that help people make better decisions. My work sits at the intersection of data analytics, ERP systems, and business intelligence.
 
-- 👨🏿‍🎓 I'm currently a ERP Analyst<br>
+- 👨🏿‍🎓 I'm currently a Business Analyst focusing on ERP integration<br>
 - 💻 Data Analyst focused on practical business insights
 - 🎓 Graduate of Economics and Statistics - University of Nairobi<br>
 - 👸🏿 Hobbies: outdoor activities and cycling<br>
 
 ## 🚧 What I'm Currently Working On
 
-- Implementing ERPNext modules to Kenya business requirements<br>
+- Implementing ERPNext modules to business requirements<br>
 - Building data reports and dashboards for operational insights<br>
 - Learning how to extend ERPNext using Frappe and Python<br>
 
