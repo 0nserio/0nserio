@@ -1,23 +1,22 @@
-# 👋 Hi, I’m David Mandi
+### 👋 Hi, I’m David Mandi
 
 
-## Data Analyst | Business Analyst | ERP & Data Systems
-_Let data tell the story._ 
-
-<br>I work at the intersection of data analytics, business operations, and enterprise systems, translating raw data and complex workflows into structured insights and practical solutions. My experience spans data analysis, ERP implementation, and business process optimization, with a focus on improving how organizations capture, manage, and use data for decision-making.<br>
+ Data Analyst | Business Analyst | ERP & Data Systems
 
 
-- 👨🏿‍🎓 I'm currently a Business Analyst focusing on ERP integration<br>
-- 💻 Data Analyst focused on actionable insights and reporting
-- 🎓 Economics & Statistics graduate — University of Nairobi <br>
-- 🚴🏿‍♂️ Interests: cycling, outdoor activities, and continuous learning <br>
+🌱 I’m interested in using data and systems to solve real-world business and development challenges  
 
-## 🚧 What I'm Currently Working On
 
-- Translating business requirements into ERPNext implementations and workflows  
-- Designing dashboards and reports to support operational and financial decisions  
-- Extending ERPNext functionality using Frappe Framework and Python  
-- Strengthening my skills in data systems, automation, and analytics  
+🛠️ Skills:  
+- Data: Python (Pandas), SQL, Power BI, Excel  
+- Systems: ERPNext, Frappe Framework  
+- Focus Areas: Data Analysis, Business Intelligence, Process Optimization  
+
+
+### 🚧 Currently:  
+- Working on ERP-driven data systems and workflows  
+- Building dashboards and reports for decision-making  
+- Learning Python-based system extensions and automation  
 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
